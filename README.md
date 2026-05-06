@@ -59,7 +59,7 @@ I'm a software engineering graduate from Rabat, Morocco, specialized in Frontend
 
 | Project | Contribution | Link |
 |---|---|---|
-| [flowbite-react](https://github.com/themesberg/flowbite-react) ⭐ 2.1k | Reported issue #1647 — proposed support for out-of-month days styling in the Datepicker component, including a new `outside` theme token and API improvement | [Issue #1647](https://github.com/themesberg/flowbite-react/issues/1647) |
+| [flowbite-react](https://github.com/themesberg/flowbite-react) ⭐ 2.1k | Reported issue #1647 — proposed support for out-of-month days styling in the Datepicker component, including a new `outside` theme token and API improvement. Implemented the fix in PR #1674 by adding an `outside` style key to `DatepickerViewsDaysTheme`, detecting out-of-month days with `isOutside`, and applying reduced opacity styling | [Issue #1647](https://github.com/themesberg/flowbite-react/issues/1647) · [PR #1674](https://github.com/themesberg/flowbite-react/pull/1674) |
 
 ---
 
@@ -79,4 +79,3 @@ I'm a software engineering graduate from Rabat, Morocco, specialized in Frontend
 ---
 
 *Thanks for visiting my profile! Feel free to explore my repositories or reach out.* 🙌
-
